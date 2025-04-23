@@ -1,3 +1,2 @@
 # Bruteforce
-Custom Tooling Using Python
-Pyhton3.8.10
+Custom Tooling Using Python3.8.10
